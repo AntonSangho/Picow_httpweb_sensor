@@ -1,0 +1,127 @@
+ture (200 OK) [240ms]
+2023-08-22 12:00:22 [info     / 155kB] > GET /humidity (200 OK) [356ms]
+2023-08-22 12:00:33 [info     / 147kB] > GET /humidity (200 OK) [73ms]
+2023-08-22 12:00:33 [info     / 141kB] > GET /temperature (200 OK) [214ms]
+2023-08-22 12:00:43 [info     / 129kB] > GET /humidity (200 OK) [383ms]
+2023-08-22 12:00:43 [info     / 127kB] > GET /temperature (200 OK) [389ms]
+2023-08-22 12:00:50 [debug    / 151kB] > parsed template: app_templates/index.html (took 17 ms)
+2023-08-22 12:00:50 [info     / 148kB] > GET / (200 OK) [193ms]
+2023-08-22 12:00:50 [info     / 137kB] > GET /humidity (200 OK) [259ms]
+2023-08-22 12:00:50 [info     / 134kB] > GET /temperature (200 OK) [313ms]
+2023-08-22 12:00:52 [debug    / 123kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 12:00:52 [info     / 121kB] > GET / (200 OK) [118ms]
+2023-08-22 12:00:52 [info     / 151kB] > GET /humidity (200 OK) [277ms]
+2023-08-22 12:00:52 [info     / 149kB] > GET /temperature (200 OK) [331ms]
+2023-08-22 12:01:03 [info     / 141kB] > GET /humidity (200 OK) [73ms]
+2023-08-22 12:01:03 [info     / 135kB] > GET /temperature (200 OK) [219ms]
+2023-08-22 12:01:14 [info     / 123kB] > GET /temperature (200 OK) [246ms]
+2023-08-22 12:01:14 [info     / 120kB] > GET /humidity (200 OK) [306ms]
+2023-08-22 12:01:25 [info     / 147kB] > GET /humidity (200 OK) [307ms]
+2023-08-22 12:01:25 [info     / 145kB] > GET /temperature (200 OK) [424ms]
+2023-08-22 12:01:36 [info     / 133kB] > GET /temperature (200 OK) [261ms]
+2023-08-22 12:01:36 [info     / 131kB] > GET /humidity (200 OK) [331ms]
+2023-08-22 12:01:47 [info     / 119kB] > GET /humidity (200 OK) [324ms]
+2023-08-22 12:01:47 [info     / 152kB] > GET /temperature (200 OK) [389ms]
+2021-01-01 00:00:02 [debug    / 159kB]   - connecting
+2023-08-22 14:31:45 [debug    / 152kB]   - got ip address
+2023-08-22 14:31:45 [info     / 149kB] > starting web server on port 80
+2023-08-22 14:31:51 [debug    / 149kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 14:31:51 [info     / 147kB] > GET / (200 OK) [270ms]
+2023-08-22 14:31:52 [info     / 135kB] > GET /humidity (200 OK) [217ms]
+2023-08-22 14:31:52 [info     / 133kB] > GET /temperature (200 OK) [286ms]
+2023-08-22 14:32:02 [info     / 121kB] > GET /temperature (200 OK) [201ms]
+2023-08-22 14:32:02 [info     / 156kB] > GET /humidity (200 OK) [269ms]
+2023-08-22 14:34:35 [debug    / 158kB]   - got ip address
+2023-08-22 14:34:35 [info     / 154kB] > starting web server on port 80
+2023-08-22 14:34:38 [debug    / 141kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 14:34:38 [info     / 138kB] > GET / (200 OK) [251ms]
+2023-08-22 14:34:41 [info     / 126kB] > GET /humidity (200 OK) [243ms]
+2023-08-22 14:34:41 [info     / 154kB] > GET /temperature (200 OK) [319ms]
+2023-08-22 14:34:43 [debug    / 142kB] > parsed template: app_templates/index.html (took 7 ms)
+2023-08-22 14:34:43 [info     / 140kB] > GET / (200 OK) [112ms]
+2023-08-22 14:34:43 [info     / 128kB] > GET /humidity (200 OK) [393ms]
+2023-08-22 14:34:43 [info     / 126kB] > GET /temperature (200 OK) [459ms]
+2023-08-22 14:34:51 [debug    / 137kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 14:34:51 [info     / 134kB] > GET / (200 OK) [141ms]
+2023-08-22 14:34:51 [info     / 123kB] > GET /humidity (200 OK) [244ms]
+2023-08-22 14:34:51 [info     / 120kB] > GET /temperature (200 OK) [312ms]
+2023-08-22 14:35:02 [info     / 153kB] > GET /temperature (200 OK) [269ms]
+2023-08-22 14:35:02 [info     / 151kB] > GET /humidity (200 OK) [336ms]
+2023-08-22 14:35:52 [debug    / 157kB]   - got ip address
+2023-08-22 14:35:53 [info     / 154kB] > starting web server on port 80
+2023-08-22 14:35:56 [debug    / 140kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 14:35:56 [info     / 138kB] > GET / (200 OK) [288ms]
+2023-08-22 14:35:57 [info     / 151kB] > GET /temperature (200 OK) [253ms]
+2023-08-22 14:35:57 [info     / 149kB] > GET /humidity (200 OK) [326ms]
+2023-08-22 14:36:52 [debug    / 157kB]   - got ip address
+2023-08-22 14:36:52 [info     / 153kB] > starting web server on port 80
+2023-08-22 14:36:55 [debug    / 139kB] > parsed template: app_templates/index.html (took 7 ms)
+2023-08-22 14:36:55 [info     / 137kB] > GET / (200 OK) [336ms]
+2023-08-22 14:36:55 [info     / 145kB] > GET /humidity (200 OK) [339ms]
+2023-08-22 14:36:56 [info     / 143kB] > GET /temperature (200 OK) [393ms]
+2023-08-22 14:37:07 [info     / 131kB] > GET /temperature (200 OK) [247ms]
+2023-08-22 14:37:07 [info     / 129kB] > GET /humidity (200 OK) [300ms]
+2023-08-22 14:37:18 [info     / 150kB] > GET /humidity (200 OK) [300ms]
+2023-08-22 14:37:18 [info     / 147kB] > GET /temperature (200 OK) [357ms]
+2023-08-22 14:37:29 [info     / 140kB] > GET /humidity (200 OK) [73ms]
+2023-08-22 14:37:29 [info     / 133kB] > GET /temperature (200 OK) [198ms]
+2023-08-22 14:50:21 [debug    / 157kB]   - got ip address
+2023-08-22 14:50:21 [info     / 154kB] > starting web server on port 80
+2023-08-22 14:50:27 [debug    / 140kB] > parsed template: app_templates/index.html (took 6 ms)
+2023-08-22 14:50:27 [info     / 138kB] > GET / (200 OK) [272ms]
+2023-08-22 14:50:27 [info     / 145kB] > GET /humidity (200 OK) [293ms]
+2023-08-22 14:50:27 [info     / 143kB] > GET /temperature (200 OK) [351ms]
+2023-08-22 14:50:57 [debug    / 153kB]   - got ip address
+2023-08-22 14:50:58 [info     / 150kB] > starting web server on port 80
+2023-08-22 14:51:03 [debug    / 153kB] > parsed template: app_templates/index.html (took 13 ms)
+2023-08-22 14:51:03 [info     / 151kB] > GET / (200 OK) [194ms]
+2023-08-22 14:51:03 [info     / 133kB] > GET /humidity (200 OK) [235ms]
+2023-08-22 14:51:03 [info     / 131kB] > GET /temperature (200 OK) [294ms]
+2023-08-22 14:51:06 [debug    / 120kB] > parsed template: app_templates/index.html (took 7 ms)
+2023-08-22 14:51:06 [info     / 118kB] > GET / (200 OK) [3410ms]
+2023-08-22 14:51:07 [info     / 132kB] > GET /temperature (200 OK) [277ms]
+2023-08-22 14:51:07 [info     / 130kB] > GET /humidity (200 OK) [335ms]
+2023-08-22 14:51:47 [debug    / 153kB]   - got ip address
+2023-08-22 14:51:47 [info     / 150kB] > starting web server on port 80
+2023-08-22 14:51:49 [debug    / 151kB] > parsed template: app_templates/index.html (took 8 ms)
+2023-08-22 14:51:49 [info     / 149kB] > GET / (200 OK) [249ms]
+2023-08-22 14:51:50 [info     / 132kB] > GET /humidity (200 OK) [329ms]
+2023-08-22 14:51:50 [info     / 130kB] > GET /temperature (200 OK) [392ms]
+2023-08-22 14:52:01 [info     / 151kB] > GET /humidity (200 OK) [369ms]
+2023-08-22 14:52:01 [info     / 149kB] > GET /temperature (200 OK) [438ms]
+2023-08-22 14:52:11 [info     / 137kB] > GET /temperature (200 OK) [184ms]
+2023-08-22 14:52:12 [info     / 134kB] > GET /humidity (200 OK) [251ms]
+2023-08-22 14:52:22 [info     / 122kB] > GET /humidity (200 OK) [239ms]
+2023-08-22 14:52:23 [info     / 120kB] > GET /temperature (200 OK) [303ms]
+2023-08-22 14:52:33 [info     / 146kB] > GET /temperature (200 OK) [202ms]
+2023-08-22 14:52:34 [info     / 144kB] > GET /humidity (200 OK) [270ms]
+2023-08-22 14:52:51 [debug    / 153kB]   - got ip address
+2023-08-22 14:52:51 [info     / 150kB] > starting web server on port 80
+2023-08-22 14:52:54 [debug    / 143kB] > parsed template: app_templates/index.html (took 8 ms)
+2023-08-22 14:52:54 [info     / 141kB] > GET / (200 OK) [305ms]
+2023-08-22 14:52:54 [info     / 124kB] > GET /cds (200 OK) [270ms]
+2023-08-22 14:52:54 [info     / 122kB] > GET /humidity (200 OK) [345ms]
+2023-08-22 14:52:54 [info     / 120kB] > GET /temperature (200 OK) [418ms]
+2023-08-22 14:52:56 [debug    / 149kB] > parsed template: app_templates/index.html (took 8 ms)
+2023-08-22 14:52:56 [info     / 147kB] > GET / (200 OK) [1672ms]
+2023-08-22 14:52:57 [info     / 130kB] > GET /cds (200 OK) [398ms]
+2023-08-22 14:52:57 [info     / 128kB] > GET /humidity (200 OK) [470ms]
+2023-08-22 14:52:57 [info     / 125kB] > GET /temperature (200 OK) [541ms]
+2023-08-22 14:52:58 [debug    / 150kB] > parsed template: app_templates/index.html (took 7 ms)
+2023-08-22 14:52:58 [info     / 148kB] > GET / (200 OK) [239ms]
+2023-08-22 14:52:58 [info     / 131kB] > GET /humidity (200 OK) [217ms]
+2023-08-22 14:52:59 [info     / 129kB] > GET /temperature (200 OK) [318ms]
+2023-08-22 14:52:59 [info     / 127kB] > GET /cds (200 OK) [374ms]
+2023-08-22 14:54:01 [debug    / 162kB]   - got ip address
+2023-08-22 14:54:01 [info     / 158kB] > starting web server on port 80
+2023-08-22 14:54:03 [debug    / 144kB] > parsed template: app_templates/index.html (took 8 ms)
+2023-08-22 14:54:03 [info     / 142kB] > GET / (200 OK) [2006ms]
+2023-08-22 14:54:04 [info     / 126kB] > GET /cds (200 OK) [375ms]
+2023-08-22 14:54:04 [info     / 123kB] > GET /humidity (200 OK) [428ms]
+2023-08-22 14:54:04 [info     / 154kB] > GET /temperature (200 OK) [493ms]
+2023-08-22 14:54:14 [info     / 142kB] > GET /cds (200 OK) [311ms]
+2023-08-22 14:54:14 [info     / 139kB] > GET /humidity (200 OK) [368ms]
+2023-08-22 14:54:15 [info     / 132kB] > GET /temperature (200 OK) [303ms]
+2023-08-22 14:54:25 [info     / 120kB] > GET /humidity (200 OK) [278ms]
+2023-08-22 14:54:25 [info     / 118kB] > GET /cds (200 OK) [342ms]
+2023-08-22 14:54:26 [info     / 154kB] > GET /temperature (200 OK) [270ms]
