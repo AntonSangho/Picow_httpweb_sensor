@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0", charset="UTF-8">
+        <title>라즈베리파이 피코 w</title>
+    </head>
+    <body>
+        <h1>성공</h1>
+        <p>라즈베리파이 피코W가 네트워크에 접속되었습니다.</p>
+        <p>온도: <span id="tempValue"></span>C.</p>
+        <p>습도: <span id="humidValue"></span>%.</p>
+        <p>조도: <span id="cdsValue"></span>.</p>
+        <br/>
+        <button id="toggleBtn">Toggle LED</button>
+        <button id="resetBtn">Reset Wifi</button>
+        <script src="data:text/javascript,document.getElementById('toggleBtn').onclick = async function() { await fetch('/toggle'); };" defer></script>
+        <script src="data:text/javascript,document.getElementById('resetBtn').onclick = function() { window.location.href = '/reset'; };" defer></script>
+        <script src="data:text/javascript,async function getTemp() { const elem = document.getElementById('tempValue'); elem.innerHTML = 'Updating...'; const t = await fetch('/temperature'); const tVal = await t.text(); elem.innerHTML = tVal; setTimeout(getTemp, 10000)}; getTemp();" defer></script>
+        <script src="data:text/javascript,async function getHumid() { const elem = document.getElementById('humidValue'); elem.innerHTML = 'Updating...'; const t = await fetch('/humidity'); const tVal = await t.text(); elem.innerHTML = tVal; setTimeout(getHumid, 10000)}; getHumid();" defer></script>
+        <script src="data:text/javascript,async function getCds() { const elem = document.getElementById('cdsValue'); elem.innerHTML = 'Updating...'; const t = await fetch('/cds'); const tVal = await t.text(); elem.innerHTML = tVal; setTimeout(getCds, 10000)}; getCds();" defer></script>
+    </body>
+</html>
