@@ -21,7 +21,6 @@ for device in devices:
     print('Decimal address:', device, ", Hex address: ", hex(device))
 
 while True:
-    print(type(sensor.temperature))
     print("\nTemperature: %0.2f C" % sensor.temperature)
     print("Humidity: %0.2f %%" % sensor.relative_humidity)
     utime.sleep(5)
